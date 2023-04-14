@@ -8,6 +8,12 @@ I'm practicing my coding skills and learning new libraries in Python by followin
 
 ## USED LIBRARIES SO FAR:
 
+* Turtle Graphics
+* Pandas
+* Tkinter
+* Requests
+* SMTPlib
+
 
 
 
